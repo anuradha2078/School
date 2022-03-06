@@ -1,0 +1,18 @@
+HTTrack3.44-1+htsswf+htsjava launched on Sun, 20 Feb 2022 13:11:35 at www.loyolaschooltrivandrum.com/ +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2010], %s -->" -%l "en, en, *" www.loyolaschooltrivandrum.com/ -O1 "C:\Users\hp\Desktop\sarda school" +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:12:23	Error: 	"Not Found" (404) at link www.loyolaschooltrivandrum.com/main/ (from www.loyolaschooltrivandrum.com/)
+13:12:25	Warning: 	Redirected link is identical because of 'URL Hack' option: www.loyolaschooltrivandrum.com/icse/ and https://loyolaschooltrivandrum.com/icse/
+13:12:25	Warning: 	File has moved from www.loyolaschooltrivandrum.com/icse/ to https://loyolaschooltrivandrum.com/icse/
+13:12:26	Warning: 	Redirected link is identical because of 'URL Hack' option: www.loyolaschooltrivandrum.com/cbse/ and https://loyolaschooltrivandrum.com/cbse/
+13:12:26	Warning: 	File has moved from www.loyolaschooltrivandrum.com/cbse/ to https://loyolaschooltrivandrum.com/cbse/
+13:12:27	Warning: 	Redirected link is identical because of 'URL Hack' option: www.loyolaschooltrivandrum.com/loyola-mag/ and https://loyolaschooltrivandrum.com/loyola-mag/
+13:12:27	Warning: 	File has moved from www.loyolaschooltrivandrum.com/loyola-mag/ to https://loyolaschooltrivandrum.com/loyola-mag/
+
+HTTrack Website Copier/3.44-1 mirror complete in 52 seconds : 20 links scanned, 15 files written (1734738 bytes overall) [1131927 bytes received at 21767 bytes/sec], 1097634 bytes transfered using HTTP compression in 10 files, ratio 43%, 1.3 requests per connection
+(1 errors, 6 warnings, 0 messages)
